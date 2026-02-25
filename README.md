@@ -12,6 +12,7 @@ npm run dev
 GitHub
 
 This repo is not yet published. To publish, create a remote repository on GitHub and push the `main` branch (instructions below).
+
 # Welcome to your Lovable project
 
 ## Project info
